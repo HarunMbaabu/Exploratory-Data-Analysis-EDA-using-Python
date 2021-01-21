@@ -62,3 +62,10 @@ In this step, we will perform the below operations to check what the data set co
 ~~~python
 data.shape
 ~~~
+
+    3). nfo() is used to check the Information about the data and the datatypes of each respective attribute.
+
+~~~python
+data.info()
+~~~
+    
