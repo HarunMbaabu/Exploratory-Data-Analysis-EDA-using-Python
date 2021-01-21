@@ -57,8 +57,6 @@ In this step, we will perform the below operations to check what the data set co
 
 The head function will tell you the top records in the data set. By default, python shows you only the top 5 records.
 
-The shape attribute tells us a number of observations and variables we have in the data set. It is used to check the dimension of data. The cars data set has 303 observations and 13 variables in the data set.
-
-
+The shape attribute tells us a number of observations and variables we have in the data set. It is used to check the dimension of data. 
 
 
