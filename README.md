@@ -33,3 +33,15 @@ import  matplolib.pyplot as plt
 import seaborn as sns 
 %matplotlib inline 
 ~~~
+
+## ## Loading the data set 
+
+use pandas to ready .json file, csv file or excel file where the dataset is stored 
+
+~~~python
+#reading a csv file use 
+data = pd.read_csv("path_to_your_file/yourdataset.csv")
+
+#reading excel file
+data = pd.read_xlxs("path_to_your_file/yourdataset.csv")
+~~~
