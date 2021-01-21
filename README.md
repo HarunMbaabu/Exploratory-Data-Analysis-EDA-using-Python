@@ -23,3 +23,13 @@ The major topics to be covered are:
 * Encoding Categorical variables( Dummy Variables)
 
 * Bivariate Analysis
+
+
+## ## Importing Libraries
+~~~python
+import pandas as pd
+import numpy as np 
+import  matplolib.pyplot as plt
+import seaborn as sns 
+%matplotlib inline 
+~~~
