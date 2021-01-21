@@ -58,16 +58,13 @@ In this step, we will perform the below operations to check what the data set co
     1). The head function will tell you the top records in the data set. By default, python shows you only the top 5 records.
 
     2). The shape attribute tells us a number of observations and variables we have in the data set. It is used to check the dimension of data. 
+    
+
+    3). nfo() is used to check the Information about the data and the datatypes of each respective attribute. 
 
 ~~~python
 data.shape
-~~~
 
-
-    <p> 3). nfo() is used to check the Information about the data and the datatypes of each respective attribute. </p>
-
-
-~~~python
 data.info()
 ~~~
     
