@@ -59,4 +59,6 @@ In this step, we will perform the below operations to check what the data set co
 
     2). The shape attribute tells us a number of observations and variables we have in the data set. It is used to check the dimension of data. 
 
-
+~~~python
+data.shape
+~~~
