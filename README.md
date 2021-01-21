@@ -12,14 +12,14 @@ Data Analysis is the statistics and probability to figure out trends in the data
 
 ###### The major topics to be covered are: 
 
-*Handle Missing value
+* Handle Missing value
 
-*Removing duplicates
+* Removing duplicates
 
-*Outlier Treatment
+* Outlier Treatment
 
-*Normalizing and Scaling( Numerical Variables)
+* Normalizing and Scaling( Numerical Variables)
 
-*Encoding Categorical variables( Dummy Variables)
+* Encoding Categorical variables( Dummy Variables)
 
-*Bivariate Analysis
+* Bivariate Analysis
