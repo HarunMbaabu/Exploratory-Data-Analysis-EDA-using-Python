@@ -64,7 +64,7 @@ data.shape
 ~~~
 
 
-    3). nfo() is used to check the Information about the data and the datatypes of each respective attribute.
+    <p> 3). nfo() is used to check the Information about the data and the datatypes of each respective attribute. </p>
 
 
 ~~~python
