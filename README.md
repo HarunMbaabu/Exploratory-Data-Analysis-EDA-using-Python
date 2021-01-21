@@ -45,3 +45,20 @@ data = pd.read_csv("path_to_your_file/yourdataset.csv")
 #reading excel file
 data = pd.read_xlxs("path_to_your_file/yourdataset.csv")
 ~~~
+
+## Basic Data Exploration
+
+In this step, we will perform the below operations to check what the data set comprises of. We will check the below things:
+
+* head of the dataset
+* the shape of the dataset
+* info of the dataset
+* summary of the dataset
+
+The head function will tell you the top records in the data set. By default, python shows you only the top 5 records.
+
+The shape attribute tells us a number of observations and variables we have in the data set. It is used to check the dimension of data. The cars data set has 303 observations and 13 variables in the data set.
+
+
+
+
