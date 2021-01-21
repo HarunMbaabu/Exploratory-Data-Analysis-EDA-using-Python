@@ -10,7 +10,7 @@ Data Analysis is the statistics and probability to figure out trends in the data
 
 #####  Exploratory Data Analysis(EDA) 
 
-###### The major topics to be covered are: 
+The major topics to be covered are: 
 
 * Handle Missing value
 
